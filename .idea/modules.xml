@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Networking/.idea/Networking.iml" filepath="$PROJECT_DIR$/../Networking/.idea/Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../datetime/.idea/datetime.iml" filepath="$PROJECT_DIR$/../datetime/.idea/datetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dbooperations/.idea/dbooperations.iml" filepath="$PROJECT_DIR$/../dbooperations/.idea/dbooperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../encapsulation/.idea/encapsulation.iml" filepath="$PROJECT_DIR$/../encapsulation/.idea/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exceptionhandling/.idea/exceptionhandling.iml" filepath="$PROJECT_DIR$/../exceptionhandling/.idea/exceptionhandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../files/.idea/files.iml" filepath="$PROJECT_DIR$/../files/.idea/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../inheritance/.idea/inheritance.iml" filepath="$PROJECT_DIR$/../inheritance/.idea/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multithreading/.idea/multithreading.iml" filepath="$PROJECT_DIR$/../multithreading/.idea/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../numpy/.idea/numpy.iml" filepath="$PROJECT_DIR$/../numpy/.idea/numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oopsbasics.iml" filepath="$PROJECT_DIR$/.idea/oopsbasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../polymorphism/.idea/polymorphism.iml" filepath="$PROJECT_DIR$/../polymorphism/.idea/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regularexpression/.idea/regularexpression.iml" filepath="$PROJECT_DIR$/../regularexpression/.idea/regularexpression.iml" />
+    </modules>
+  </component>
+</project>
